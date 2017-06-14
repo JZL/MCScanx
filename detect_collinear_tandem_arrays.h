@@ -9,6 +9,7 @@
 #include <map>
 #include <vector>
 #include <algorithm>
+#include <unistd.h>
 using namespace std;
 
 struct Blast_record
